@@ -4,4 +4,4 @@
   (+ x x))
 
 (defn bar [y]
-  (* y y))
+  (+ y y))
