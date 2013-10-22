@@ -1,5 +1,7 @@
 (ns testirepo.core)
 
-(defn foo [x])
+(defn foo [x]
+  (+ x x))
 
-(defn bar [y])
+(defn bar [y]
+  (* y y))
