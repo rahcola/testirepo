@@ -5,4 +5,4 @@ jdk:
   - openjdk7
 notifications:
   email: false
-  webhooks: http://128.214.138.164:8080/notifications
+  webhooks: http://polar-hollows-8825.herokuapp.com/notifications
